@@ -12,6 +12,7 @@ import RTCSessionDescription from './RTCSessionDescription';
 import RTCIceCandidate from './RTCIceCandidate';
 import RTCIceCandidateEvent from './RTCIceCandidateEvent';
 import RTCEvent from './RTCEvent';
+import * as RTCUtil from './RTCUtil';
 
 const {WebRTCModule} = NativeModules;
 
